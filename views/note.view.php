@@ -5,7 +5,7 @@
 <main>
     <div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
         <p class="mb-6">
-            <a href="/notes" class="text-blue-600 hover:underline">Back to notes</a>
+            <a href="/notes" class="text-blue-600 hover:underline">Back to notes..</a>
         </p>
         <p><?= $note['body'] ?></p>
     </div>
